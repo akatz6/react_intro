@@ -28,15 +28,20 @@
   color: #888;
 }
 
-.container{
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container {
   display: flex;
   flex-wrap: wrap;
 }
 
-.element{
+.element {
   width: 33%;
 }
 
-h2{
+h2 {
   white-space: nowrap;
 }

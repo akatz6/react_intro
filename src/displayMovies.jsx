@@ -1,4 +1,5 @@
 /* eslint-disable react/prop-types */
+// props passes in the parameters from the parent
 function DisplayMovies(props) {
   return (
     <div className="element">
